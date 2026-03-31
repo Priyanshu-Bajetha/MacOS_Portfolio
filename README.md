@@ -1,16 +1,88 @@
-# React + Vite
+# 🖥️ MacOS Portfolio OS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, interactive **MacOS-inspired portfolio** built with React, Tailwind CSS, and GSAP. This project recreates the MacOS desktop experience in the browser with smooth animations, draggable UI, and a clean aesthetic.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Features
+- 🧊 MacOS-style UI (Desktop, Navbar, Dock)
+- 🖱️ Interactive desktop icons
+- 🪟 Window-based navigation system
+- 🎬 Smooth animations using GSAP
+- 📱 Fully responsive design
+- 🌙 Glassmorphism & modern UI effects
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
+- ⚛️ React (Vite)
+- 🎨 Tailwind CSS
+- 🎬 GSAP (Animations)
+- 📦 JavaScript (ES6+)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📂 Project Structure
+macos-portfolio/
+│── public/
+│   ├── images/
+│   ├── icons/
+│
+│── src/
+│   ├── components/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+│
+│── package.json
+
+---
+
+## ⚙️ Installation & Setup
+# Clone the repository
+git clone https://github.com/Priyanshu-Bajetha/MacOS_Portfolio.git
+
+# Navigate into the project
+cd MacOS_Portfolio
+
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+
+---
+
+## 🧠 What I Learned
+- Building dynamic UI using React components  
+- Handling animations with GSAP  
+- Structuring scalable frontend projects  
+- Working with Tailwind CSS for rapid styling  
+- Debugging real-world frontend issues  
+
+---
+
+## 🔮 Future Improvements
+- 🤖 AI-powered assistant (project explanations)  
+- 🪟 Draggable & resizable windows  
+- 🌐 Integration with GitHub API  
+- 🎨 Theme customization (light/dark mode)  
+- ⚡ Performance optimization  
+
+---
+
+## 🙋‍♂️ Author
+**Priyanshu Bajetha**  
+- GitHub: https://github.com/Priyanshu-Bajetha  
+
+---
+
+## 🙏 Credits
+This project was inspired and learned from the amazing tutorial by **JavaScript Mastery**.  
+
+---
+
+## ⭐ Show your support
+If you like this project, give it a ⭐ on GitHub!
